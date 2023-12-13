@@ -130,6 +130,7 @@ function onetime(){
 
       
 //     }, 1000);
+// jang
     
 
   
